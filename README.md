@@ -32,3 +32,6 @@ El objetivo de este proyecto es mostrar la próxima película de Marvel, su fech
 - **Proyecto**: "La Próxima Película de Marvel - Proyecto PHP"
 - **Descripción**: Visualización de la próxima película de Marvel a partir de datos obtenidos desde una API pública.
 - **Tecnologías**: PHP, HTML, CSS, Zeabur, PicoCSS.
+
+## VISUALIZACIÓN DEL PROYECTO:
+![Imagen 1](images/img1.png)
